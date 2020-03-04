@@ -1,0 +1,42 @@
+.container{
+    background-color: gold;
+    padding: 20px;
+}
+
+.header{
+    background-color: blue;
+    border: soild 1px black;
+    height: 100px;
+}
+
+.nav{
+    background-color: seagreen;
+    border: solid 1px black;
+}
+
+.content-promo-container{
+    margin: 0px 15px 0px 15px;
+}
+
+.content{
+    background-color: red;
+    border: solid 1px black;
+    height: 200px;
+}
+
+.aside{
+    background-color: aquamarine;
+    border: solid 1px black;
+}
+
+.promo{
+    background-color: orange;
+    border: solid 1px black;
+    height: 150px;
+}
+
+.footer{
+    background-color: black;
+    border: solid 2px black;
+    color: white;
+}
